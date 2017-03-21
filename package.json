@@ -13,6 +13,9 @@
   "author": "zhumin",
   "license": "ISC",
   "bin": {
-    "gen" : "./index.js"
+    "gen": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^2.9.0"
   }
 }
