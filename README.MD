@@ -8,3 +8,7 @@ how to make node cli tools
 6. When we're ready, we can publish our script to the public npm registry with npm publish.
 	npm install -g gen 
 7. add a arguments module by  npm install --save commander
+8. npm link
+9. npm install --save co co-prompt
+10. gen -u zhumin -p 123456  helloworld
+11. gen --help  
